@@ -1,0 +1,1 @@
+# wordle-fetch-solver.js
